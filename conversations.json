@@ -1,0 +1,70 @@
+{
+  "conv_20250409_065200": {
+    "created": "2025-04-09 06:52:00",
+    "title": "Hello! I'm ATTENDIFY...",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hello! I'm ATTENDIFY chatbot. How can I help you with your face recognition attendance system today?",
+        "time": "06:52",
+        "model": "deepseek-r1"
+      }
+    ]
+  },
+  "conv_20250409_065212": {
+    "created": "2025-04-09 06:52:12",
+    "title": "Hello! I'm ATTENDIFY...",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hello! I'm ATTENDIFY chatbot. How can I help you with your face recognition attendance system today?",
+        "time": "06:52",
+        "model": "deepseek-r1"
+      },
+      {
+        "role": "user",
+        "content": "Hi",
+        "time": "06:52"
+      },
+      {
+        "role": "assistant",
+        "content": "\nHello! How can I assist you today? 😊",
+        "time": "06:53",
+        "model": "deepseek-r1"
+      },
+      {
+        "role": "user",
+        "content": "What is HTML?",
+        "time": "06:53"
+      },
+      {
+        "role": "assistant",
+        "content": "\nHTML, which stands for HyperText Markup Language, is the standard markup language used to create and structure web pages. It uses tags to organize text into sections that define their presentation on a browser.\n\nHere’s a basic breakdown of its key components:\n\n1. **<HTML Tag**: This is the main container for all content.\n2. **HEAD Section**: Contains meta tags (for page properties) and stylesheets.\n3. **BODY Section**: Contains the visible content of the webpage.\n4. **Elements**: Enclose data such as headings, paragraphs, links, images, forms, etc., with attributes describing their properties.\n\nFor example, a simple HTML structure looks like this:\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n    <title>My Page</title>\n</head>\n<body>\n    <h1>Hello World!</h1>\n    <a href=\"#\">Link to another page</a>\n</body>\n</html>\n```\n\nHTML is often paired with CSS for styling and JavaScript for interactivity. It’s the foundation of web development, allowing creation of dynamic and interactive websites.",
+        "time": "06:54",
+        "model": "deepseek-r1"
+      },
+      {
+        "role": "user",
+        "content": "what about php?",
+        "time": "06:55"
+      },
+      {
+        "role": "assistant",
+        "content": "\nPHP (Hypertext Preprocessor) is a server-side scripting language widely used for web development. Here are some key points about PHP:\n\n1. **Server-Side Scripting**: PHP runs on the web server, meaning it processes client requests and generates dynamic content.\n\n2. **Dynamic Language**: PHP is dynamically typed, allowing variables to be declared without explicit type declarations.\n\n3. **Cross-Platform**: PHP can run on various operating systems, including Windows, Linux, macOS, and others.\n\n4. **POP3, MySQL, and HTTP Handling**: By default, PHP includes extensions for POP3 email client protocols, MySQL database management, and handling HTTP requests.\n\n5. **Popular Frameworks**: Frameworks like Laravel, Symfony, and Doctrine are built on PHP, making it a popular choice for web development.\n\n6. **Dynamic Content**: PHP is often used to generate dynamic content, such as e-commerce sites, blogs, and games.\n\n7. **Security**: PHP has built-in security features, including input validation and secure password handling.\n\n8. **Extensibility**: PHP can be extended with plugins and extensions for specific functionalities.\n\n9. **Community**: The PHP community is large and active, contributing to a vast array of libraries and frameworks.\n\n10. **Open Source**: PHP is open source under the BSD license, allowing free use, modification, and distribution.\n\nPHP is widely used in enterprise environments and has a strong theoretical foundation with many resources available for learning and development.",
+        "time": "06:56",
+        "model": "deepseek-r1"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I'm ATTENDIFY chatbot. How can I help you with your face recognition attendance system today?",
+        "time": "18:19",
+        "model": "deepseek-r1"
+      },
+      {
+        "role": "user",
+        "content": "hi",
+        "time": "18:19"
+      }
+    ]
+  }
+}
