@@ -64,6 +64,34 @@
         "role": "user",
         "content": "hi",
         "time": "18:19"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I'm ATTENDIFY chatbot. How can I help you with your face recognition attendance system today?",
+        "time": "18:23",
+        "model": "deepseek-r1"
+      },
+      {
+        "role": "user",
+        "content": "hellooo",
+        "time": "18:23"
+      },
+      {
+        "role": "assistant",
+        "content": "\nHellooo! 😊 How can I assist you today?",
+        "time": "18:23",
+        "model": "deepseek-r1"
+      },
+      {
+        "role": "user",
+        "content": "bonjour",
+        "time": "11:44"
+      },
+      {
+        "role": "assistant",
+        "content": "\nBonjour ! Comment puis-je vous aider aujourd'hui ? 😊",
+        "time": "11:44",
+        "model": "deepseek-r1"
       }
     ]
   }
